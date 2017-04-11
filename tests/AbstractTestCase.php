@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of Laravel Alert.
+ * This file is part of Laravel Utilities.
  *
  * (c) Brian Faust <hello@brianfaust.de>
  *
@@ -11,9 +11,9 @@
 
 declare(strict_types=1);
 
-namespace BrianFaust\Tests\Alert;
+namespace BrianFaust\Tests\Utilities;
 
-use GrahamCampbell\TestBench\AbstractPackageTestCase;
+use PHPUnit_Framework_TestCase as AbstractPackageTestCase;
 
 abstract class AbstractTestCase extends AbstractPackageTestCase
 {
