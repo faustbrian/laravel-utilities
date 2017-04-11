@@ -19,10 +19,7 @@
     "autoload": {
         "psr-4": {
             "BrianFaust\\Utilities\\": "src/"
-        },
-        "files": [
-            "src/helpers.php"
-        ]
+        }
     },
     "autoload-dev": {
         "psr-4": {
