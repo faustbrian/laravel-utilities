@@ -1,6 +1,6 @@
 <?php
 
-namespace BrianFaust\Utilities\Traits;
+namespace Artisanry\Utilities\Traits;
 
 trait EncryptPassword
 {

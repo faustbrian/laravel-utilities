@@ -1,6 +1,6 @@
 <?php
 
-namespace BrianFaust\Tests\Utilities;
+namespace Artisanry\Tests\Utilities;
 
 use PHPUnit_Framework_TestCase as AbstractPackageTestCase;
 

@@ -1,12 +1,12 @@
 {
-    "name": "faustbrian/laravel-utilities",
+    "name": "artisanry/utilities",
     "description": "Utilities for Laravel 5.",
-    "keywords": ["laravel", "framework", "Laravel-Utilities", "Laravel Utilities", "Brian Faust", "faustbrian"],
+    "keywords": ["laravel", "framework", "Laravel-Utilities", "Laravel Utilities"],
     "license": "MIT",
     "authors": [{
         "name": "Brian Faust",
-        "email": "hello@brianfaust.me",
-        "homepage": "https://brianfaust.me"
+        "email": "hello@basecode.sh",
+        "homepage": "https://basecode.sh"
     }],
     "require": {
         "php": "^7.1"
@@ -18,12 +18,12 @@
     },
     "autoload": {
         "psr-4": {
-            "BrianFaust\\Utilities\\": "src/"
+            "Artisanry\\Utilities\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "BrianFaust\\Tests\\Utilities\\": "tests"
+            "Artisanry\\Tests\\Utilities\\": "tests"
         }
     },
     "config": {
